@@ -30,7 +30,7 @@ function showGoodFilms(arr) {
     return topFilm;
 }
 
-showGoodFilms(films);
+console.log(showGoodFilms(films));
 
 function showListOfFilms(arr) {
     let stringfilm = '';
